@@ -1,4 +1,4 @@
-# 👋 Hi there
+# 👋 Hi there, I'm Bekinou
 
 ## 🛡️ Cybersecurity & Network Engineering Student (Graduating 2026)
 
