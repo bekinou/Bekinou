@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Bekinou
+# 👋 Hi there, I'm Bereket TSIGIE
 
 ## 🛡️ Cybersecurity & Network Engineering Student (Graduating 2026)
 
