@@ -12,7 +12,7 @@ Passionate about offensive security, infrastructure hardening and secure cloud a
 - 🎯 Advanced penetration testing (Active Directory, Web Applications)
 - ☁️ Secure cloud architecture design & infrastructure automation
 - 🔍 Security auditing aligned with NIST CSF & CIS Controls
-- 🚀 Building technical troubleshooting labs for cybersecurity training
+- 🚀 Building **UCSN** (Unified Cloud Security & Network) - Long-term infrastructure project for secure, optimized, and scalable cloud environments
 
 ---
 
