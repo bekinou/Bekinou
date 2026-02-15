@@ -53,7 +53,7 @@ Currently in active development as a technical and strategic lab.
 
 ## 📫 Connect with me:
 
-- 💼 LinkedIn: [Your LinkedIn][(https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/bereket-tsigie-752187222/)
+- 💼 LinkedIn:https://www.linkedin.com/in/bereket-tsigie-752187222/
 - 📧 Email: berekettkelesi@gmail.com
 
 ---
