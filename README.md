@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Bereket TSIGIE
 
-## 🛡️ Cybersecurity & Network Engineering Student (Graduating 2026)
+## 🛡️ Cybersecurity & Network Engineer (Graduating 2026)
 
 Passionate about offensive security, infrastructure hardening and secure cloud architecture.  
 3 years of experience in IT Support & Cybersecurity with a strong focus on Active Directory security, penetration testing and cloud infrastructure design.
